@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1038. 珠宝和石头", "1038. 珠宝和石头.vcxproj", "{9F25B020-39BE-4B2D-B331-AC90397A4370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F25B020-39BE-4B2D-B331-AC90397A4370}.Debug|x64.ActiveCfg = Debug|x64
+		{9F25B020-39BE-4B2D-B331-AC90397A4370}.Debug|x64.Build.0 = Debug|x64
+		{9F25B020-39BE-4B2D-B331-AC90397A4370}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F25B020-39BE-4B2D-B331-AC90397A4370}.Debug|x86.Build.0 = Debug|Win32
+		{9F25B020-39BE-4B2D-B331-AC90397A4370}.Release|x64.ActiveCfg = Release|x64
+		{9F25B020-39BE-4B2D-B331-AC90397A4370}.Release|x64.Build.0 = Release|x64
+		{9F25B020-39BE-4B2D-B331-AC90397A4370}.Release|x86.ActiveCfg = Release|Win32
+		{9F25B020-39BE-4B2D-B331-AC90397A4370}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE3874B-9F38-4119-96EA-A71F23CC56AA}
+	EndGlobalSection
+EndGlobal

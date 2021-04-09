@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\1493. 模拟行走机器人\Main.cpp(25,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\1493. 模拟行走机器人\Main.cpp(45,7): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+E:\项目\c_plus_plus\LeetCode practice\1493. 模拟行走机器人\Main.cpp(76,23): warning C4018: “<”: 有符号/无符号不匹配
+  1493. 模拟行走机器人.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\1493. 模拟行走机器人\Debug\1493. 模拟行走机器人.exe

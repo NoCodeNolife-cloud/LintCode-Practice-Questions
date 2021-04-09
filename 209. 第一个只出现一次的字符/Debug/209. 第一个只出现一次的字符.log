@@ -1,0 +1,6 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\209. 第一个只出现一次的字符\Main.cpp(39,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\209. 第一个只出现一次的字符\Main.cpp(42,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\209. 第一个只出现一次的字符\Main.cpp(56,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\209. 第一个只出现一次的字符\Main.cpp(62): warning C4715: “Solution::firstUniqChar”: 不是所有的控件路径都返回值
+  209. 第一个只出现一次的字符.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\209. 第一个只出现一次的字符\Debug\209. 第一个只出现一次的字符.exe

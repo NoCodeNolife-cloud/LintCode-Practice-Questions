@@ -1,0 +1,20 @@
+﻿给出一系列单词 words，以及两个不同的单词 wordA 和 wordB，请找出最近的两个 wordA 和 wordB 的间距。
+如果 words 中不存在 wordA 或 wordB，那么返回 -1−1。
+
+样例
+输入：
+["hello","world","say","hello"]
+"hello"
+"world"
+输出：
+1
+说明
+样例中，第一个 "hello" 和第一个 "world" 的间距为 11,
+但第一个 "world" 和第二个 "hello" 的间距为 22, 所以最后的答案应该是 11.
+
+注意事项
+words 中有 tt 个单词，每个单词的长度为 kk，1 \le t \le 10^41≤t≤10
+​4
+​​ , 1 \le k \le 201≤k≤20。
+wordA 和 wordB 的长度分别为 n, mn,m，1 \le n, m \le 201≤n,m≤20。
+单词只包含大写或小写英文字符。

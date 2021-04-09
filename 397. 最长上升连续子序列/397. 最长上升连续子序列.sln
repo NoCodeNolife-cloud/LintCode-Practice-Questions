@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "397. 最长上升连续子序列", "397. 最长上升连续子序列.vcxproj", "{1F17C0D7-B850-4A1D-B94E-5E84F7D0572D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F17C0D7-B850-4A1D-B94E-5E84F7D0572D}.Debug|x64.ActiveCfg = Debug|x64
+		{1F17C0D7-B850-4A1D-B94E-5E84F7D0572D}.Debug|x64.Build.0 = Debug|x64
+		{1F17C0D7-B850-4A1D-B94E-5E84F7D0572D}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F17C0D7-B850-4A1D-B94E-5E84F7D0572D}.Debug|x86.Build.0 = Debug|Win32
+		{1F17C0D7-B850-4A1D-B94E-5E84F7D0572D}.Release|x64.ActiveCfg = Release|x64
+		{1F17C0D7-B850-4A1D-B94E-5E84F7D0572D}.Release|x64.Build.0 = Release|x64
+		{1F17C0D7-B850-4A1D-B94E-5E84F7D0572D}.Release|x86.ActiveCfg = Release|Win32
+		{1F17C0D7-B850-4A1D-B94E-5E84F7D0572D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AE1F6E-0E8D-4DB0-93B8-8CA43394D38D}
+	EndGlobalSection
+EndGlobal

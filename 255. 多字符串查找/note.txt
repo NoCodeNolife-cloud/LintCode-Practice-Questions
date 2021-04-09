@@ -1,0 +1,14 @@
+给出一个源字符串sourceString和一个目标字符串数组targetStrings，判断目标字符串数组中的每一个字符串是否是源字符串的子串
+
+样例
+样例 1:
+
+输入: sourceString = "abc" ，targetStrings = ["ab","cd"]
+输出: [true, false]
+样例 2:
+
+输入: sourceString = "lintcode" ，targetStrings = ["lint","code","codes"]
+输出: [true,true,false]	
+注意事项
+len(sourceString) <= 1000
+sum(len(targetStrings[i])) <= 1000

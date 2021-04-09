@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\1476. 山形数组的顶峰坐标\Main.cpp(21,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\1476. 山形数组的顶峰坐标\Main.cpp(26): warning C4715: “Solution::peakIndexInMountainArray”: 不是所有的控件路径都返回值
+  1476. 山形数组的顶峰坐标.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\1476. 山形数组的顶峰坐标\Debug\1476. 山形数组的顶峰坐标.exe

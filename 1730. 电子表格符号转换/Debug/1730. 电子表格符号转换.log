@@ -1,0 +1,7 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\1730. 电子表格符号转换\Main.cpp(33,26): warning C4244: “参数”: 从“__int64”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+  1730. 电子表格符号转换.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\1730. 电子表格符号转换\Debug\1730. 电子表格符号转换.exe

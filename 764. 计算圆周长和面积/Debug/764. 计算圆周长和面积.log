@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\764. 计算圆周长和面积\Main.cpp(30,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\项目\c_plus_plus\LeetCode practice\764. 计算圆周长和面积\Main.cpp(31,20): warning C4018: “<”: 有符号/无符号不匹配
+  764. 计算圆周长和面积.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\764. 计算圆周长和面积\Debug\764. 计算圆周长和面积.exe

@@ -1,0 +1,8 @@
+﻿  637. 检查缩写字.cpp
+E:\项目\c_plus_plus\LeetCode practice\637. 检查缩写字\637. 检查缩写字.cpp(18,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\637. 检查缩写字\637. 检查缩写字.cpp(23,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\637. 检查缩写字\637. 检查缩写字.cpp(24,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\项目\c_plus_plus\LeetCode practice\637. 检查缩写字\637. 检查缩写字.cpp(39,24): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\637. 检查缩写字\637. 检查缩写字.cpp(40,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\项目\c_plus_plus\LeetCode practice\637. 检查缩写字\637. 检查缩写字.cpp(52,21): warning C4018: “<”: 有符号/无符号不匹配
+  637. 检查缩写字.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\637. 检查缩写字\Debug\637. 检查缩写字.exe

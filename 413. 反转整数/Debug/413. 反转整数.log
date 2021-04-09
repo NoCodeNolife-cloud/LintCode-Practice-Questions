@@ -1,0 +1,4 @@
+﻿  413. 反转整数.cpp
+E:\项目\c_plus_plus\LeetCode practice\413. 反转整数\413. 反转整数.cpp(22,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\413. 反转整数\413. 反转整数.cpp(26,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  413. 反转整数.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\413. 反转整数\Debug\413. 反转整数.exe

@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\1169. 字符串的排列\Main.cpp(25,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\1169. 字符串的排列\Main.cpp(33,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\1169. 字符串的排列\Main.cpp(35,22): warning C4018: “<”: 有符号/无符号不匹配
+  1169. 字符串的排列.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\1169. 字符串的排列\Debug\1169. 字符串的排列.exe

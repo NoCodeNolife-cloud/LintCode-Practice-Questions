@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\1887. 延伸字符串\Main.cpp(27,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\1887. 延伸字符串\Main.cpp(42,12): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  1887. 延伸字符串.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\1887. 延伸字符串\Debug\1887. 延伸字符串.exe

@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\1218. 补数\Main.cpp(37,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\1218. 补数\Main.cpp(38,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  1218. 补数.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\1218. 补数\Debug\1218. 补数.exe

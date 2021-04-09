@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\684. 缺少的字符串\Main.cpp(35,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\684. 缺少的字符串\Main.cpp(37,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\684. 缺少的字符串\Main.cpp(56,20): warning C4018: “<”: 有符号/无符号不匹配
+  684. 缺少的字符串.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\684. 缺少的字符串\Debug\684. 缺少的字符串.exe

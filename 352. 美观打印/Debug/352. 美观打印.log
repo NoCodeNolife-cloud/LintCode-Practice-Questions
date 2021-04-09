@@ -1,0 +1,5 @@
+﻿  352. 美观打印.cpp
+E:\项目\c_plus_plus\LeetCode practice\352. 美观打印\352. 美观打印.cpp(19,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\352. 美观打印\352. 美观打印.cpp(20,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\352. 美观打印\352. 美观打印.cpp(21,27): warning C4018: “<=”: 有符号/无符号不匹配
+  352. 美观打印.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\352. 美观打印\Debug\352. 美观打印.exe

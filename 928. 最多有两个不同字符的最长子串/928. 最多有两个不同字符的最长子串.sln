@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "928. 最多有两个不同字符的最长子串", "928. 最多有两个不同字符的最长子串.vcxproj", "{FF2F08CC-5027-43D4-8524-D2EF4596825D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2F08CC-5027-43D4-8524-D2EF4596825D}.Debug|x64.ActiveCfg = Debug|x64
+		{FF2F08CC-5027-43D4-8524-D2EF4596825D}.Debug|x64.Build.0 = Debug|x64
+		{FF2F08CC-5027-43D4-8524-D2EF4596825D}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF2F08CC-5027-43D4-8524-D2EF4596825D}.Debug|x86.Build.0 = Debug|Win32
+		{FF2F08CC-5027-43D4-8524-D2EF4596825D}.Release|x64.ActiveCfg = Release|x64
+		{FF2F08CC-5027-43D4-8524-D2EF4596825D}.Release|x64.Build.0 = Release|x64
+		{FF2F08CC-5027-43D4-8524-D2EF4596825D}.Release|x86.ActiveCfg = Release|Win32
+		{FF2F08CC-5027-43D4-8524-D2EF4596825D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E906D712-C158-4DD1-B2FD-05B199A22EE8}
+	EndGlobalSection
+EndGlobal

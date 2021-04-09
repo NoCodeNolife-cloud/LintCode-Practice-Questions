@@ -1,0 +1,3 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\908. 直线对称\Main.cpp(34,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  908. 直线对称.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\908. 直线对称\Debug\908. 直线对称.exe

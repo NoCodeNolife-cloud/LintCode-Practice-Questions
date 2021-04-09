@@ -1,0 +1,12 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(24,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(29,31): warning C4018: “>”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(30,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(34,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(35,1): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(41,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(46,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(49,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(53,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Main.cpp(54,1): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+  330. 递增的数.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\330. 递增的数\Debug\330. 递增的数.exe

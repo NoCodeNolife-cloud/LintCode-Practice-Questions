@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\1505. 找数字\Main.cpp(23,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\1505. 找数字\Main.cpp(34): warning C4715: “Solution::findnNumber”: 不是所有的控件路径都返回值
+  1505. 找数字.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\1505. 找数字\Debug\1505. 找数字.exe

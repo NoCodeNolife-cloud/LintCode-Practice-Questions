@@ -1,0 +1,2 @@
+E:\项目\c_plus_plus\LeetCode practice\298. 寻找素数\Debug\298. 寻找素数.exe
+E:\项目\c_plus_plus\LeetCode practice\298. 寻找素数\Debug\298. 寻找素数.pdb

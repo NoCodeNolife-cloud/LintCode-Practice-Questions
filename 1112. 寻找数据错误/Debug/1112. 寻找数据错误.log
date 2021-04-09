@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\1112. 寻找数据错误\Main.cpp(23,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\1112. 寻找数据错误\Main.cpp(56,21): warning C4018: “<=”: 有符号/无符号不匹配
+  1112. 寻找数据错误.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\1112. 寻找数据错误\Debug\1112. 寻找数据错误.exe

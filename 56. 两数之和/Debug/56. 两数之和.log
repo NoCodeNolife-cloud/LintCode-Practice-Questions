@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\56. 两数之和\Main.cpp(22,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\56. 两数之和\Main.cpp(23,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\56. 两数之和\Main.cpp(31): warning C4715: “Solution::twoSum”: 不是所有的控件路径都返回值
+  56. 两数之和.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\56. 两数之和\Debug\56. 两数之和.exe

@@ -1,0 +1,5 @@
+﻿  128. 哈希函数.cpp
+E:\项目\c_plus_plus\LeetCode practice\128. 哈希函数\128. 哈希函数.cpp(28,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\128. 哈希函数\128. 哈希函数.cpp(32,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\128. 哈希函数\128. 哈希函数.cpp(36,10): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  128. 哈希函数.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\128. 哈希函数\Debug\128. 哈希函数.exe

@@ -1,0 +1,6 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\188. 插入五\Main.cpp(39,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\188. 插入五\Main.cpp(40,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\项目\c_plus_plus\LeetCode practice\188. 插入五\Main.cpp(65,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\188. 插入五\Main.cpp(66,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  188. 插入五.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\188. 插入五\Debug\188. 插入五.exe

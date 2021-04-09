@@ -1,0 +1,26 @@
+给定一组关键字“words”和一个字符串“S”，将所有关键字以S粗体显示。<b> 和 </b>标记之间的任何字母都将加粗。
+返回的字符串应该使用尽可能少的标签，当然这些标签应该组成一个有效的组合。
+
+样例
+样例 1:
+
+输入:
+["ab", "bc"]
+"aabcd"
+输出:
+"a<b>abc</b>d"
+
+解释:
+ "a<b>a<b>b</b>c</b>d" 用了更多的标签，所以不对
+样例 2:
+
+输入:
+["bcccaeb","b","eedcbda","aeebebebd","ccd","eabbbdcde","deaaea","aea","accebbb","d"]
+"ceaaabbbedabbecbcced"
+输出:
+"ceaaa<b>bbb</b>e<b>d</b>a<b>bb</b>ec<b>b</b>cce<b>d</b>"
+注意事项
+words 长度在[0, 50].
+words[i] 长度在 [1, 10].
+S 长度在 [0, 500].
+words[i] 和 S 由小写字母组成

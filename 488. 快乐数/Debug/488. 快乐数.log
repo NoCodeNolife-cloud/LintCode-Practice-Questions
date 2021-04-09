@@ -1,0 +1,5 @@
+﻿  488. 快乐数.cpp
+E:\项目\c_plus_plus\LeetCode practice\488. 快乐数\488. 快乐数.cpp(20,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\488. 快乐数\488. 快乐数.cpp(21,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\项目\c_plus_plus\LeetCode practice\488. 快乐数\488. 快乐数.cpp(24,22): warning C4018: “<”: 有符号/无符号不匹配
+  488. 快乐数.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\488. 快乐数\Debug\488. 快乐数.exe

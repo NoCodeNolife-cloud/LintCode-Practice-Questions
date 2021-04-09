@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\1209. 构造矩形\Main.cpp(25,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\项目\c_plus_plus\LeetCode practice\1209. 构造矩形\Main.cpp(39): warning C4715: “Solution::constructRectangle”: 不是所有的控件路径都返回值
+  1209. 构造矩形.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\1209. 构造矩形\Debug\1209. 构造矩形.exe

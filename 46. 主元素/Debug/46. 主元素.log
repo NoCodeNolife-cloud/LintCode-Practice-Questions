@@ -1,0 +1,6 @@
+﻿  46. 主元素.cpp
+E:\项目\c_plus_plus\LeetCode practice\46. 主元素\46. 主元素.cpp(14,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\46. 主元素\46. 主元素.cpp(16,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\46. 主元素\46. 主元素.cpp(29,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\46. 主元素\46. 主元素.cpp(34): warning C4715: “Solution::majorityNumber”: 不是所有的控件路径都返回值
+  46. 主元素.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\46. 主元素\Debug\46. 主元素.exe

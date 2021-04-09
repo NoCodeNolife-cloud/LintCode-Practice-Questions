@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\326.  滑动数独\Main.cpp(28,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\326.  滑动数独\Main.cpp(42,23): warning C4018: “<”: 有符号/无符号不匹配
+  326.  滑动数独.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\326.  滑动数独\Debug\326.  滑动数独.exe

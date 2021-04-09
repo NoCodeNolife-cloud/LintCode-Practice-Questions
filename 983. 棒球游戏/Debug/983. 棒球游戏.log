@@ -1,0 +1,8 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\LeetCode practice\983. 棒球游戏\Main.cpp(23,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\983. 棒球游戏\Main.cpp(40,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\983. 棒球游戏\Main.cpp(48,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\983. 棒球游戏\Main.cpp(49,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\项目\c_plus_plus\LeetCode practice\983. 棒球游戏\Main.cpp(54,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\LeetCode practice\983. 棒球游戏\Main.cpp(55,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  983. 棒球游戏.vcxproj -> E:\项目\c_plus_plus\LeetCode practice\983. 棒球游戏\Debug\983. 棒球游戏.exe
