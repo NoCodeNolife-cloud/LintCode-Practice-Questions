@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\项目\GitHub项目仓管\LeetCode-Practice-Questions\343.  圆环\main.cpp(17,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\LeetCode-Practice-Questions\343.  圆环\main.cpp(18,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\LeetCode-Practice-Questions\343.  圆环\main.cpp(28,22): warning C4018: “<”: 有符号/无符号不匹配
+  343.  圆环.vcxproj -> E:\项目\GitHub项目仓管\LeetCode-Practice-Questions\343.  圆环\Debug\343.  圆环.exe
