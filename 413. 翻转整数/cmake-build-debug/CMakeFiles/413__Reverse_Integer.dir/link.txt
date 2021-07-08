@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\413__Reverse_Integer.dir/objects.a
+D:\CLION2~1.1\mingw64\bin\ar.exe cr CMakeFiles\413__Reverse_Integer.dir/objects.a @CMakeFiles\413__Reverse_Integer.dir\objects1.rsp
+D:\CLION2~1.1\mingw64\bin\G__~1.EXE  -Wall -fexec-charset=GBK -g -static -Wl,--whole-archive CMakeFiles\413__Reverse_Integer.dir/objects.a -Wl,--no-whole-archive -o 413__Reverse_Integer.exe -Wl,--out-implib,lib413__Reverse_Integer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\413__Reverse_Integer.dir\linklibs.rsp
