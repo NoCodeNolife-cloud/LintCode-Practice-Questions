@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\1029__Cheapest_Flights_Within_K_Stops.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\1029__Cheapest_Flights_Within_K_Stops.dir/objects.a @CMakeFiles\1029__Cheapest_Flights_Within_K_Stops.dir\objects1.rsp
+D:\mingw64\bin\g++.exe  -Wall -fexec-charset=GBK -g -static -Wl,--whole-archive CMakeFiles\1029__Cheapest_Flights_Within_K_Stops.dir/objects.a -Wl,--no-whole-archive -o 1029__Cheapest_Flights_Within_K_Stops.exe -Wl,--out-implib,lib1029__Cheapest_Flights_Within_K_Stops.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1029__Cheapest_Flights_Within_K_Stops.dir\linklibs.rsp
