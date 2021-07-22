@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="1029__Cheapest_Flights_Within_K_Stops" targetName="1029__Cheapest_Flights_Within_K_Stops" />
+      <config projectName="1587__String_Segmentation" targetName="1587__String_Segmentation" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8268f31a-9861-428d-8b50-5b0e219410fa" name="Default Changelist" comment="" />
+    <list default="true" id="f502f052-a2d7-4edb-9ec9-54c0fea7d50c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1vbZhB0rQbgf0jzG38E6yLS7Qa3" />
+  <component name="ProjectId" id="1vePhRsxtgytaYSvssQBBq4k0Oy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,28 +39,29 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="1029__Cheapest_Flights_Within_K_Stops" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1029__Cheapest_Flights_Within_K_Stops" TARGET_NAME="1029__Cheapest_Flights_Within_K_Stops" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1029__Cheapest_Flights_Within_K_Stops" RUN_TARGET_NAME="1029__Cheapest_Flights_Within_K_Stops">
+    <configuration name="1587__String_Segmentation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1587__String_Segmentation" TARGET_NAME="1587__String_Segmentation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1587__String_Segmentation" RUN_TARGET_NAME="1587__String_Segmentation">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8268f31a-9861-428d-8b50-5b0e219410fa" name="Default Changelist" comment="" />
-      <created>1626832877420</created>
+      <changelist id="f502f052-a2d7-4edb-9ec9-54c0fea7d50c" name="Default Changelist" comment="" />
+      <created>1626919712427</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1626832877420</updated>
-      <workItem from="1626832886208" duration="1291000" />
-      <workItem from="1626835861681" duration="189000" />
-      <workItem from="1626937133204" duration="3000" />
-      <workItem from="1626937140440" duration="1000" />
-      <workItem from="1626937153504" duration="2151000" />
+      <updated>1626919712427</updated>
+      <workItem from="1626919721232" duration="5287000" />
+      <workItem from="1626925526754" duration="1000" />
     </task>
     <servers />
   </component>

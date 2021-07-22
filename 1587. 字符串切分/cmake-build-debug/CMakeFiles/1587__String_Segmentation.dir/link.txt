@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\1587__String_Segmentation.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\1587__String_Segmentation.dir/objects.a @CMakeFiles\1587__String_Segmentation.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1587__String_Segmentation.dir/objects.a -Wl,--no-whole-archive -o 1587__String_Segmentation.exe -Wl,--out-implib,lib1587__String_Segmentation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1587__String_Segmentation.dir\linklibs.rsp
