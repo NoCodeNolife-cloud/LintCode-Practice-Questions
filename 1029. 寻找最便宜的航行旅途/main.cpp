@@ -15,23 +15,20 @@ public:
      * @param K: a integer
      * @return: return a integer
      */
-    int findCheapestPrice(int n, vector <vector<int>> &flights, int src, int dst, int K) {
+    int findCheapestPrice(int n, vector<vector<int>> &flights, int src, int dst, int K) {
 
         unordered_map<int, vector<int>> outdegrees;
+        queue<pair<int, int>> que; //flight and money
+        unordered_map<int, int> memo;
+        int k = 0, ans = INT_MAX;
 
         for (int i = 0; i < flights.size(); ++i) {
             outdegrees[flights[i][0]].push_back(i);
         }
 
-        queue <pair<int, int>> que; //flight and money
-
-        int k = 0, ans = INT_MAX;
-
         for (int i = 0; i < outdegrees[src].size(); ++i) {
             que.push(make_pair(outdegrees[src][i], 0));
         }
-
-        unordered_map<int, int> memo;
 
         while (!que.empty() && k <= K) {
             int size = que.size();
@@ -59,7 +56,7 @@ public:
             k++;
         }
 
-        return ans == INT_MAX ? -1 : ans;
+        return ans == INT_MAX ? -1 : ans;/*如果没有找到合适的线路，返回 -1*/
     }
 };
 

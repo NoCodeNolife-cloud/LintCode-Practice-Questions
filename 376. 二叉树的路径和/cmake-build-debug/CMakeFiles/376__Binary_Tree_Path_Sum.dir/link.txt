@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\376__Binary_Tree_Path_Sum.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\376__Binary_Tree_Path_Sum.dir/objects.a @CMakeFiles\376__Binary_Tree_Path_Sum.dir\objects1.rsp
+D:\mingw64\bin\g++.exe  -Wall -fexec-charset=GBK -g -static -Wl,--whole-archive CMakeFiles\376__Binary_Tree_Path_Sum.dir/objects.a -Wl,--no-whole-archive -o 376__Binary_Tree_Path_Sum.exe -Wl,--out-implib,lib376__Binary_Tree_Path_Sum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\376__Binary_Tree_Path_Sum.dir\linklibs.rsp
