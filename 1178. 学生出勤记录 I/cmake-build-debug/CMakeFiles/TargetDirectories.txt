@@ -1,0 +1,3 @@
+E:/programe/GitHub project warehouse manager/LeetCode-Practice-Questions/1178. Student Attendance Record I/cmake-build-debug/CMakeFiles/1178__Student_Attendance_Record_I.dir
+E:/programe/GitHub project warehouse manager/LeetCode-Practice-Questions/1178. Student Attendance Record I/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programe/GitHub project warehouse manager/LeetCode-Practice-Questions/1178. Student Attendance Record I/cmake-build-debug/CMakeFiles/rebuild_cache.dir
