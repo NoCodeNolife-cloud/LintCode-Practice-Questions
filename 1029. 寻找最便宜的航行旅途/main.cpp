@@ -61,6 +61,12 @@ public:
 };
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Solution solution;
+    vector<vector<int>> flights = {
+            {0, 1, 100},
+            {1, 2, 100},
+            {0, 2, 500}
+    };
+    cout << solution.findCheapestPrice(3, flights, 0, 2, 0);
     return 0;
 }
