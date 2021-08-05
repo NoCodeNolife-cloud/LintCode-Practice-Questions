@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\2506__Remove_the_Invalid_Parentheses.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\2506__Remove_the_Invalid_Parentheses.dir/objects.a @CMakeFiles\2506__Remove_the_Invalid_Parentheses.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\2506__Remove_the_Invalid_Parentheses.dir/objects.a -Wl,--no-whole-archive -o 2506__Remove_the_Invalid_Parentheses.exe -Wl,--out-implib,lib2506__Remove_the_Invalid_Parentheses.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2506__Remove_the_Invalid_Parentheses.dir\linklibs.rsp
