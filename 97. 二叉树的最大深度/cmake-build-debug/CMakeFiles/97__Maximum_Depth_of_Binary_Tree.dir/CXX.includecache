@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/LeetCode-Practice-Questions/97. Maximum Depth of Binary Tree/main.cpp
+iostream
+-
+

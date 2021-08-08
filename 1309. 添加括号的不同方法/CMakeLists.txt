@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(1309__Different_Ways_to_Add_Parentheses)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(1309__Different_Ways_to_Add_Parentheses main.cpp)
