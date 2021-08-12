@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(1150__Fraction_Addition_and_Subtraction)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(1150__Fraction_Addition_and_Subtraction main.cpp)

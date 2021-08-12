@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-practice/184. Largest Number/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

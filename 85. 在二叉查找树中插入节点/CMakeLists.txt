@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(85__Insert_Node_in_a_Binary_Search_Tree)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(85__Insert_Node_in_a_Binary_Search_Tree main.cpp)
