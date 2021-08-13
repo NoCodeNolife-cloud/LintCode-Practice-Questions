@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\744__K.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\744__K.dir/objects.a @CMakeFiles\744__K.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\744__K.dir/objects.a -Wl,--no-whole-archive -o 744__K.exe -Wl,--out-implib,lib744__K.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\744__K.dir\linklibs.rsp
